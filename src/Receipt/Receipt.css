@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Kodchasan&display=swap");
+* {
+  font-family: "Kodchasan", sans-serif;
+}
+
+body {
+  text-align: center;
+  color: #000;
+}
+
+.invoice-box table {
+  width: 100%;
+  line-height: inherit;
+  border-collapse: collapse;
+}
+
+.invoice-box table td {
+  padding: 10px;
+}
+
+.invoice-box table tr.heading td {
+  border-bottom: 1px solid #ddd;
+  font-weight: bold;
+}
+
+.invoice-box table tr.item td {
+  border-bottom: 1px solid #eee;
+}
+
+.copy {
+  font-size: 15px;
+  color: #4b5563;
+}
+
+.header {
+  font-size: 25px;
+  font-weight: bold;
+  color: #000;
+}
+
+.company {
+  font-size: 18px;
+  font-weight: bold;
+  color: #000;
+}
+
+.address {
+  font-size: 16px;
+  color: #4b5563;
+  letter-spacing: 0.5px;
+  font-weight: normal;
+}
+
+.bold {
+  font-size: 15px;
+  color: #000;
+  letter-spacing: 0.5px;
+  font-weight: bold;
+}
+
+.descrip {
+  font-size: 14px;
+  color: #4b5563;
+  font-weight: normal;
+}
+
+.gray {
+  font-size: 15px;
+  color: #4b5563;
+}
+
+.black {
+  font-size: 18px;
+  color: #000;
+  font-weight: bold;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.center {
+  text-align: center;
+}
+
+.headerTable {
+  font-size: 16px;
+  color: #000;
+  font-weight: bold;
+}
+
+.price {
+  font-size: 15px;
+  color: #000;
+}
+
+.bgColor {
+  background-color: #f3f4f6;
+}
